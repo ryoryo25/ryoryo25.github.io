@@ -1,4 +1,4 @@
 # ryoryo25.github.io
-HP of ry_Tom
+ry_Tom's HP
 
 [Blog](./blog/)
