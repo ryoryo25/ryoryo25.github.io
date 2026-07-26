@@ -5,6 +5,8 @@ ry_Tom's HP
 
 - [ry_Tom's Blog](./blog/)
 - [Word/character Counter](./wordcount/)
+- [Code Highlighter](./code-highlight/)
 - [見たことない魔物カウンター](./mamonocounter/)
 - [ノイミーシリアル入力補助](./ne-me-serial-helper/)
 - [闇ココイチいし](./yami-cocoichi-ishi/)
+- [カメコツイートジェネレータ](./cameko-tweet-template/)
